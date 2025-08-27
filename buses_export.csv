@@ -1,0 +1,5 @@
+Bus Number,Capacity,Type,Status,Assigned Crew,Assigned Route,Created By,Updated By,Created At,Updated At
+DL1PC1002,48,Standard,Idle,,,admin@dtc.com,admin@dtc.com,Thu Aug 21 2025 19:37:05 GMT+0530 (India Standard Time),Thu Aug 21 2025 19:37:05 GMT+0530 (India Standard Time)
+DL1EC3001,40,Mini,Active,,,admin@dtc.com,admin@dtc.com,Thu Aug 21 2025 19:36:26 GMT+0530 (India Standard Time),Wed Aug 27 2025 09:54:14 GMT+0530 (India Standard Time)
+DL1PC2001,45,AC,Active,,,admin@dtc.com,admin@dtc.com,Thu Aug 21 2025 19:35:50 GMT+0530 (India Standard Time),Thu Aug 21 2025 19:35:50 GMT+0530 (India Standard Time)
+DL1PC1001,50,Standard,Active,,,admin@dtc.com,admin@dtc.com,Thu Aug 21 2025 19:35:11 GMT+0530 (India Standard Time),Thu Aug 21 2025 19:35:11 GMT+0530 (India Standard Time)
